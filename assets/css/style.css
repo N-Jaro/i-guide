@@ -1,0 +1,15 @@
+body {
+  font-family: 'Inter', sans-serif !important;
+
+}
+.nav-change {
+  transition: background-color 200ms linear;
+}
+
+.hero1 {
+  background-image: url("bg1.png")
+}
+
+.hero {
+  margin: 0 auto;
+}
